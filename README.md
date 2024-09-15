@@ -1,5 +1,6 @@
 # Company-Sales-Analysis
-This contains a comprehensive overview of performance across various dimensions, including Supervisory, Employee, and Product metrics in Power BI 
+This contains a comprehensive overview of performance across various dimensions, including Supervisory, Employee, and Product metrics in Power BI.
+
 The sales report dashboard highlights key performance metrics, including revenue by supervisor, time, employee, and product. This summary provides insights into revenue distribution and identifies top performers and trends. Analyzing these highlights helps us understand sales dynamics and areas for improvement.
 
 📊Sales Report Dashboard Highlights
